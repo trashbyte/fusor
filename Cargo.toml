@@ -1,0 +1,13 @@
+[package]
+name = "fusor"
+description = "a simple no-std unicode parser combinator"
+version = "0.0.1"
+authors = ["trashbyte <github@trashbyte.io>"]
+edition = "2018"
+license = "MIT"
+repository = "https://github.com/trashbyte/fusor"
+readme = "README.md"
+keywords = ["fusor", "parser", "combinator", "unicode"]
+categories = ["parsing", "no-std", "embedded"]
+
+[dependencies]
