@@ -1,9 +1,5 @@
 ## fusor
 
-a simple no-std unicode parser combinator
+well i went and reserved this crate for a Great Idea i had and then i decided against it. oops.
 
-reserving this name with an empty repo because apparently thats totally okay to do :)))
-
-stay classy crates.io
-
-(it'll be empty for a day at most)
+if you want this crate name for something that actually exists, email `hello@trashbyte.io` and i'll see if i can transfer it somehow.
